@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="[LOGO_URL]" alt="Apex mark" width="92">
 
 # Ayush Tomar
 
