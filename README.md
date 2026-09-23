@@ -8,7 +8,9 @@
 [![subreddit](https://img.shields.io/badge/r%2FApexExamOS-7dd3fc?style=for-the-badge&logo=reddit&logoColor=0a0c12)](https://www.reddit.com/r/ApexExamOS/)
 [![discord](https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eTSUBRNp3b)
 
-i prepare for ssc cgl and rbi grade b, and i got tired of being scored instead of taught. so i built the thing i wanted. the question under all of it: *who is deciding what you study today.* you, or the system? ### ℞ one instrument, in your browser:
+i prepare for ssc cgl and rbi grade b, and i got tired of being scored instead of taught. so i built the thing i wanted. the question under all of it: *who is deciding what you study today.* you, or the system?
+
+### one instrument, in your browser:
 
 - **[Apex](https://exam-os.pages.dev/landing)** — reads your syllabus, reviews, errors, and mocks, then tells you *one thing to do every morning* — free, offline, no account
 - **[the wiki](https://www.reddit.com/r/ApexExamOS/wiki/index)** — how the spaced repetition works, the weak-radar math, the whole thing in plain english
@@ -16,8 +18,4 @@ i prepare for ssc cgl and rbi grade b, and i got tired of being scored instead o
 
 *· [everything, all at once](https://github.com/Ayush2403?tab=repositories)*
 
-` there is a spreadsheet somewhere with the number of mistakes i've made. the number keeps going up. the questions keep getting fewer. ♡ ( ˘ ³˘ ) ♡`- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+` built by an aspirant ・ for aspirants ・ leave the light on ♡ `
