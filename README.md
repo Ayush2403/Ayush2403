@@ -1,58 +1,22 @@
-<div align="center">
+[![Apex — the exam os](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=20&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=a+study+system+for+competitive+exams;one+thing+to+do%2C+every+morning;free+%E3%83%BB+offline+%E3%83%BB+no+account;built+by+an+aspirant+%E3%83%BB+for+aspirants+%E2%99%A1)](https://exam-os.pages.dev/landing)
 
+# Apex ・ the exam os
 
-# Ayush Tomar
+**free ・ offline ・ no account ・ built for ssc, rbi, and anyone else with a syllabus and a date ♡**
 
-**Building Apex — a study system for competitive exams.**
+[![Apex](https://img.shields.io/badge/apex-a78bfa?style=for-the-badge&logo=proton&logoColor=0a0c12)](https://exam-os.pages.dev/landing)
+[![subreddit](https://img.shields.io/badge/r%2FApexExamOS-7dd3fc?style=for-the-badge&logo=reddit&logoColor=0a0c12)](https://www.reddit.com/r/ApexExamOS/)
+[![discord](https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eTSUBRNp3b)
 
-[Website](https://exam-os.pages.dev/landing) · [Subreddit](https://www.reddit.com/r/ApexExamOS/) · [Discord](https://discord.gg/eTSUBRNp3b) · [Telegram](https://t.me/netajiputin)
+i prepare for ssc cgl and rbi grade b, and i got tired of being scored instead of taught. so i built the thing i wanted. the question under all of it: *who is deciding what you study today.* you, or the system? ### ℞ one instrument, in your browser:
 
-</div>
+- **[Apex](https://exam-os.pages.dev/landing)** — reads your syllabus, reviews, errors, and mocks, then tells you *one thing to do every morning* — free, offline, no account
+- **[the wiki](https://www.reddit.com/r/ApexExamOS/wiki/index)** — how the spaced repetition works, the weak-radar math, the whole thing in plain english
+- **[the subreddit](https://www.reddit.com/r/ApexExamOS/)** — build logs, exam discussions, the room where it happens
 
----
+*· [everything, all at once](https://github.com/Ayush2403?tab=repositories)*
 
-## What I'm building
-
-**[Apex](https://github.com/Ayush2403/apex)** — an offline-first study OS that reads your syllabus, reviews, mistakes, and mock data, then tells you one thing to do every morning.
-
-Free. No account. No telemetry. Everything lives in your browser's localStorage.
-
-## What it does
-
-| Layer | What it handles |
-|---|---|
-| Spaced repetition | Every topic returns on its own adaptive schedule |
-| Error log | Every mistake becomes a scheduled review |
-| Weak Radar | Topics ranked by friction × importance × section bias |
-| Mocks | Section-wise scoring that feeds the Radar |
-| Habits | Study hours, workout, introspection — year heatmap |
-
-## Stack
-
-![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
-## Get in touch
-
-- **Email:** tomarayush209@gmail.com
-- **Telegram:** [@netajiputin](https://t.me/netajiputin)
-- **Subreddit:** [r/ApexExamOS](https://www.reddit.com/r/ApexExamOS/)
-
----
-
-*Built by an aspirant, for aspirants.*
-<!--
-**Ayush2403/Ayush2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+` there is a spreadsheet somewhere with the number of mistakes i've made. the number keeps going up. the questions keep getting fewer. ♡ ( ˘ ³˘ ) ♡`- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
