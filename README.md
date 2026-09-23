@@ -5,7 +5,7 @@
 
 **Building Apex — a study system for competitive exams.**
 
-[Website](https://exam-os.pages.dev/landing) · [Reddit](https://www.reddit.com/r/ApexExamOS/) · [Discord](https://discord.gg/eTSUBRNp3b)
+[Website](https://exam-os.pages.dev/landing) · [Subreddit](https://www.reddit.com/r/ApexExamOS/) · [Discord](https://discord.gg/eTSUBRNp3b) · [Telegram](https://t.me/netajiputin)
 
 </div>
 
@@ -29,10 +29,10 @@ Free. No account. No telemetry. Everything lives in your browser's localStorage.
 
 ## Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 ## Get in touch
 
